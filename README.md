@@ -3,11 +3,13 @@
   <b>Full Minecraft Developer</b> | Java • Python • NodeJS • SQL
 </p>
 
-<h2>⚙️ How to contact Me?</h2>
+<h2>⚙️ Links & Contacts</h2>
 <p>
 Discord: <b>@_ziorix_</b>
 
-  CrystalOps: <a href="https://discord.gg/crystalops/" target="_blank">discord.gg/crystalops</a>
+CrystalOps: <a href="https://discord.gg/crystalops/" target="_blank">discord.gg/crystalops</a>
+
+Portfolio: <a href="https://ziorix.net/" target="_blank">ziorix.net</a>
 </p>
 
 <h2>🚀 About Me</h2>
