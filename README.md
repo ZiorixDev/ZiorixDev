@@ -6,7 +6,7 @@
 <h2>⚙️ How to contact Me?</h2>
 <p>
 Discord: <b>@_ziorix_</b>
-CrystalOps: <a href="https://discord.gg/crystalops/" target="_blank">discord.gg/crystalops</a> •
+CrystalOps: <a href="https://discord.gg/crystalops/" target="_blank">discord.gg/crystalops</a>
 </p>
 
 <h2>🚀 About Me</h2>
