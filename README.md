@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm Bram Ziorix (a.k.a. ZiorixDev)</h1>
+<h1 align="center">👋 Hi, I'm Ziorix (a.k.a. ZiorixDev)</h1>
 <p align="center">
-  <b>Full Minecraft Developer/b> | Java • Python • NodeJS • SQL
+  <b>Full Minecraft Developer</b> | Java • Python • NodeJS • SQL
 </p>
 
 <p align="center">
