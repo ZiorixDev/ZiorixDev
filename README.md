@@ -2,13 +2,6 @@
 <p align="center">
   <b>Full Minecraft Developer</b> | Java • Python • NodeJS • SQL
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bram-wijnen-66a002361/" target="_blank">LinkedIn</a> •
-  <a href="https://dev.bramcraft.net" target="_blank">Portfolio</a> •
-  <a href="mailto:bram.wijnen@bramcraft.net">Email</a>
-</p>
-
 ---
 
 <h2>🚀 About Me</h2>
