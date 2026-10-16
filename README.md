@@ -26,5 +26,5 @@ I'm working on my server called <b>CrystalOps</b>.
 
 <h2>🧰 Things I code with</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,,mysql,github" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,github" />
 </p>
