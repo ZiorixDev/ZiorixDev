@@ -3,6 +3,12 @@
   <b>Full Minecraft Developer</b> | Java • Python • NodeJS • SQL
 </p>
 
+<h2>⚙️ How to contact Me?</h2>
+<p>
+Discord: <b>@_ziorix_</b>
+CrystalOps: <a href="https://discord.gg/crystalops/" target="_blank">discord.gg/crystalops</a> •
+</p>
+
 <h2>🚀 About Me</h2>
 <p>
 Hey! I'm a developer that has been staff and owned over 45+ servers.
